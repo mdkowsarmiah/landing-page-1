@@ -1,0 +1,185 @@
+body{
+	margin: 0px;
+    padding: 0p;
+    background-image: url(image/dreamstime_m_87808373.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+	
+}
+
+.lebel{}
+.menu{
+	
+    display: inline-flex;
+   
+    display: inline-flex;
+    padding-right: 215px;
+	background: orange;
+    padding-right:170px;
+}
+.logo{
+	font-size: 13px;
+    margin-top:-8px;
+	margin-left: 55px;
+}
+.logo h1{
+	margin-top: 10px;
+	font-family: 'Racing Sans One', cursive;
+font-family: 'Rammetto One', cursive;
+font-family: 'Shrikhand', cursive;
+}
+.nav{}
+.nav ul{
+	display: inline-flex;
+	display: inline-flex;
+    margin-left: 770px;
+	margin-top: 10px;
+}
+.nav ul li{}
+.nav ul li a{
+	text-decoration: none;
+	margin-left: 42px;
+	color: white;
+	font-family: 'Shrikhand', cursive;
+}
+.nav ul li a:hover{
+	          background:indigo;
+			  
+}
+.lin{
+	margin-top: -15px;
+}
+.lin p{
+    margin-left: 217px;
+    padding-right: 515px;
+    margin-top: 75PX;
+    font-size: 15px;
+    color: blueviolet;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.para{
+	padding-right: 780px;
+    color: green;
+}
+.para h1{
+	margin-left: 290px;
+    font-size: 40px;
+	margin-top: 40px;
+	color: darkcyan;
+	font-family: 'Racing Sans One', cursive;
+font-family: 'Shrikhand', cursive;
+}
+.para h6{
+        color: brown;
+    margin-top: -18px;
+    font-weight: 600;
+	margin-left: 315px;
+    font-size: 23px;
+}
+.star{
+	
+    display: inline-flex;
+    padding-right: 180px;
+    margin-left: 250px;
+    margin-top: -40px;
+}
+.lis{}
+.lis h5{
+     margin-left: 40px;	
+	 background:purple;
+	 padding: 3px 10px;
+}
+.pink{}
+.pink button{
+	margin-top: 22px;
+    margin-left: 0px;
+}
+.pink button:hover{
+	background: darkorchid;
+	
+}
+.hello{
+	margin-top: -30px;
+}
+.hello p{
+    margin-left: 252px;
+    color: cornsilk;
+}
+.header{
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 328px;
+    padding: 10px;
+
+}
+.head1{
+	background: indigo;
+    margin-left: 5px;
+    width: 150px;
+    text-align: center;
+    padding: 50px 0px;
+    box-shadow: 0px 0px 10px black;
+    border: 5px solid red;
+    border-top-color: bisque;
+    border-bottom-color: aqua;
+    border-left-color: blueviolet;
+    border-right-color: orchid;
+    border-radius: 100%;
+
+}
+.head1 h4{
+	
+}
+.head2{
+	background: darkcyan;
+   margin-left: 5px;
+	
+}
+.head2 h4{
+	text-align: center
+}
+.head3{
+	background: gray;
+   margin-left: 5px;
+	
+}
+.head3 h4{
+	
+}
+.head4{
+	background: palevioletred;
+  margin-left: 5px;
+  
+    
+	
+}
+.head4 h4{
+	
+}
+.head5{
+	background: linear-gradient(150deg, green, blue, red, transparent);
+    margin-left: 5px;
+}
+.head5 h4{
+	
+}
+.hand{}
+.hand p{
+    margin-left: 387px;
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: bolder;
+}
+.container h1{
+    color: black;
+
+}
+.highlight{
+    color:peru;
+    font-size:50px
+}
+h1{
+    color: beige;
+}
